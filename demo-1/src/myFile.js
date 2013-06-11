@@ -1,6 +1,7 @@
 function f() {
     var value = 2;
-    return {
+    return 
+    {
         a: value,
         b: 42,
         c: "Obi Wan Kenobi"
